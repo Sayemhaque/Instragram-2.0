@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Instragram-2.0/static/css/main.afa88bca.css",
+    "main.js": "/Instragram-2.0/static/js/main.80f4ebea.js",
+    "static/media/IMG_20210607_160007-removebg-preview.png": "/Instragram-2.0/static/media/IMG_20210607_160007-removebg-preview.848f3b4f12cd39c17734.png",
+    "index.html": "/Instragram-2.0/index.html",
+    "main.afa88bca.css.map": "/Instragram-2.0/static/css/main.afa88bca.css.map",
+    "main.80f4ebea.js.map": "/Instragram-2.0/static/js/main.80f4ebea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afa88bca.css",
+    "static/js/main.80f4ebea.js"
+  ]
+}
